@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\heroes\\heroes.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\heroes\\heroes.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\messages\\messages.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\messages\\messages.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\messages\\messages.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\messages\\messages.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\hero.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\hero.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "heroes.component.ts",
+              "DocumentMoniker": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\heroes\\heroes.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\heroes\\heroes.component.ts",
+              "ToolTip": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\heroes\\heroes.component.ts",
+              "RelativeToolTip": "src\\app\\heroes\\heroes.component.ts",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-13T09:30:41.391Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hero.service.ts",
+              "DocumentMoniker": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\hero.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\hero.service.ts",
+              "ToolTip": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\hero.service.ts",
+              "RelativeToolTip": "src\\app\\hero.service.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-16T05:36:34.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "messages.component.ts",
+              "DocumentMoniker": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\messages\\messages.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\messages\\messages.component.ts",
+              "ToolTip": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\messages\\messages.component.ts",
+              "RelativeToolTip": "src\\app\\messages\\messages.component.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-16T07:33:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "messages.component.html",
+              "DocumentMoniker": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\messages\\messages.component.html",
+              "RelativeDocumentMoniker": "src\\app\\messages\\messages.component.html",
+              "ToolTip": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\messages\\messages.component.html",
+              "RelativeToolTip": "src\\app\\messages\\messages.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-16T07:34:09.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-16T07:07:25.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "D:\\jzr\\learn_Angular\\angular-tour-of-heroes\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-16T07:07:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

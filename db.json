@@ -1,0 +1,32 @@
+{
+  "heroes": [
+    {
+      "id": "13",
+      "HeroName": "Bombasto"
+    },
+    {
+      "id": "14",
+      "HeroName": "amy"
+    },
+    {
+      "id": "15",
+      "HeroName": "Magneta"
+    },
+    {
+      "id": "16",
+      "HeroName": "RubberMan"
+    },
+    {
+      "id": "17",
+      "HeroName": "Dynama"
+    },
+    {
+      "id": "18",
+      "HeroName": "Dr. IQ"
+    },
+    {
+      "id": "19",
+      "HeroName": "Magma"
+    }
+  ]
+}

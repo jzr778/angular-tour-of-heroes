@@ -1,0 +1,19 @@
+<div *ngIf="hero">
+  <h2>{{hero.heroName | uppercase}} Details</h2>
+  <div><span>id: </span>{{hero.id}}</div>
+  <div>
+    <label for="hero-name">Hero name: </label>
+    <input HeroId="hero-name" [(ngModel)]="hero.heroName" placeholder="heroName">
+  </div>
+  <!-- 技能列表 -->
+  <div class="skills-section" *ngIf="hero.skills && hero.skills.length">
+    <h3>Skills:</h3>
+    <ul class="skills-list">
+      <li *ngFor="let skill of hero.skills" class="skill-item">
+        <div class="skill-name">{{skill.skillName}}</div>
+      </li>
+    </ul>
+  </div>
+  <button type="button" (click)="goBack()">go back</button>
+  <button type="button" (click)="save()">save</button>
+</div>
