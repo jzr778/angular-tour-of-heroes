@@ -1,6 +1,10 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+![Static Badge](https://img.shields.io/badge/Angular_CLI-17.3.0-hotpink)
+
+
+## 简介
+
 
 ## Development server
 
