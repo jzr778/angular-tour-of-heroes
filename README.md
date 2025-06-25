@@ -1,5 +1,5 @@
 # AngularTourOfHeroes
-
+https://img.shields.io/badge/Angular_CLI-17.3.0-hotpink
 ![Static Badge](https://img.shields.io/badge/Angular_CLI-17.3.0-hotpink)
 
 
