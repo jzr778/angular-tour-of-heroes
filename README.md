@@ -1,6 +1,8 @@
 # AngularTourOfHeroes
-https://img.shields.io/badge/Angular_CLI-17.3.0-hotpink
-![Static Badge](https://img.shields.io/badge/Angular_CLI-17.3.0-hotpink)
+![logo](./images/title.png)
+
+![Angular CLI](https://img.shields.io/badge/Angular_CLI-17.3.0-hotpink)
+![npm](https://img.shields.io/badge/npm-9.5.0-thistle)
 
 
 ## 简介
