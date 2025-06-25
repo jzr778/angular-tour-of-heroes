@@ -16,16 +16,17 @@
 [angular17官方参考文档](https://v17.angular.io/guide/developer-guide-overview)
 
 **页面展示：**
-> 导航
+> 1. 导航
 
-![dashboard](./images/dashboard.jpeg)
-> 展示所有角色
+<img src="./images/dashboard.jpeg" alt="dashboard" width=80% height="80%">
 
-![heroes](./images/heroes.jpg)
+> 2. 展示所有角色
+
+<img src="./images/heroes.png" alt="heroes">
+
 > 角色细节
 
-![detail](./images/detail.jpg)
-
+<img src="./images/detail.png" alt="detail">
 
 
 | 前端地址| 后端地址|
